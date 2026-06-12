@@ -75,7 +75,7 @@ Com a arquitetura proposta, a MegaStore BR passa de um modelo **reativo** para u
 📦 Megastore-br
  ┣ 📄 README.md
  ┣ 📄 estudo-de-caso.pdf        
- ┗ 📁 docs/images/                      ← documento técnico completo
+ ┗ 📁 images/                      ← documento técnico completo
     ┗ 🖼️ arquitetura monitoramento.png  ← diagrama de arquitetura AWS
 ```
 ---
